@@ -28,7 +28,9 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
+bin.netcore/
 [Oo]bj/
+obj.netcore/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
